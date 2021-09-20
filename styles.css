@@ -64,7 +64,6 @@
         background-color: beige;
         margin: 30px auto;
         padding:16px;
-
         display: grid;
         grid-template-rows: 50px 174px 100px fit-content(75%) 50px;
         grid-template-columns: repeat(3, 1fr);
